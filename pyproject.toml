@@ -1,0 +1,10 @@
+[project]
+name = "bomb-candy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "edge-tts>=6.1.14",
+    "manim>=0.18.0,<1.0.0",
+]
